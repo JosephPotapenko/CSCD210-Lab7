@@ -1,0 +1,242 @@
+ 
+  ----jGRASP exec: java cscd210lab7.CSCD210Lab7
+ Please enter an integer greater than 0 3
+ Enter an item into the array: 10
+ Enter an item into the array: 20
+ Enter an item into the array: 30
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Display the array
+ 4) Compute the mean of the array
+ 5) Compute the median of the array
+ 6) Compute the midpoint of the array
+ 7) Compute the standard deviation of the array
+ 8) Quit
+ Choice --> 1
+ Add another integer into the array: 40
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Display the array
+ 4) Compute the mean of the array
+ 5) Compute the median of the array
+ 6) Compute the midpoint of the array
+ 7) Compute the standard deviation of the array
+ 8) Quit
+ Choice --> 3
+ [10,20,30,40] 
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Display the array
+ 4) Compute the mean of the array
+ 5) Compute the median of the array
+ 6) Compute the midpoint of the array
+ 7) Compute the standard deviation of the array
+ 8) Quit
+ Choice --> 4
+ The Meanvalue is 25.0
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Display the array
+ 4) Compute the mean of the array
+ 5) Compute the median of the array
+ 6) Compute the midpoint of the array
+ 7) Compute the standard deviation of the array
+ 8) Quit
+ Choice --> 6
+ The Midpointvalue is 25.0
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Display the array
+ 4) Compute the mean of the array
+ 5) Compute the median of the array
+ 6) Compute the midpoint of the array
+ 7) Compute the standard deviation of the array
+ 8) Quit
+ Choice --> 7
+ The Standard Deviationvalue is 5.773502691896258
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Display the array
+ 4) Compute the mean of the array
+ 5) Compute the median of the array
+ 6) Compute the midpoint of the array
+ 7) Compute the standard deviation of the array
+ 8) Quit
+ Choice --> 8
+ All Done
+ Good Bye
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java cscd210lab7.CSCD210Lab7
+ Please enter an integer greater than 0 4
+ Enter an item into the array: 10
+ Enter an item into the array: 20
+ Enter an item into the array: 30
+ Enter an item into the array: 40
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Display the array
+ 4) Compute the mean of the array
+ 5) Compute the median of the array
+ 6) Compute the midpoint of the array
+ 7) Compute the standard deviation of the array
+ 8) Quit
+ Choice --> 1
+ Add another integer into the array: 50
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Display the array
+ 4) Compute the mean of the array
+ 5) Compute the median of the array
+ 6) Compute the midpoint of the array
+ 7) Compute the standard deviation of the array
+ 8) Quit
+ Choice --> 3
+ [10,20,30,40,50] 
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Display the array
+ 4) Compute the mean of the array
+ 5) Compute the median of the array
+ 6) Compute the midpoint of the array
+ 7) Compute the standard deviation of the array
+ 8) Quit
+ Choice --> 4
+ The Meanvalue is 30.0
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Display the array
+ 4) Compute the mean of the array
+ 5) Compute the median of the array
+ 6) Compute the midpoint of the array
+ 7) Compute the standard deviation of the array
+ 8) Quit
+ Choice --> 6
+ The Midpointvalue is 30.0
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Display the array
+ 4) Compute the mean of the array
+ 5) Compute the median of the array
+ 6) Compute the midpoint of the array
+ 7) Compute the standard deviation of the array
+ 8) Quit
+ Choice --> 7
+ The Standard Deviationvalue is 6.123724356957945
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Display the array
+ 4) Compute the mean of the array
+ 5) Compute the median of the array
+ 6) Compute the midpoint of the array
+ 7) Compute the standard deviation of the array
+ 8) Quit
+ Choice --> 8
+ All Done
+ Good Bye
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java cscd210lab7.CSCD210Lab7
+ Please enter an integer greater than 0 5
+ Enter an item into the array: 10
+ Enter an item into the array: 20
+ Enter an item into the array: 30
+ Enter an item into the array: 40
+ Enter an item into the array: 50
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Display the array
+ 4) Compute the mean of the array
+ 5) Compute the median of the array
+ 6) Compute the midpoint of the array
+ 7) Compute the standard deviation of the array
+ 8) Quit
+ Choice --> 1
+ Add another integer into the array: 60
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Display the array
+ 4) Compute the mean of the array
+ 5) Compute the median of the array
+ 6) Compute the midpoint of the array
+ 7) Compute the standard deviation of the array
+ 8) Quit
+ Choice --> 4
+ The Meanvalue is 35.0
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Display the array
+ 4) Compute the mean of the array
+ 5) Compute the median of the array
+ 6) Compute the midpoint of the array
+ 7) Compute the standard deviation of the array
+ 8) Quit
+ Choice --> 5
+ Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: Index 5 out of bounds for length 5
+ 	at cscd210utils.IntStatisticsUtils.computeMedian(IntStatisticsUtils.java:99)
+ 	at cscd210lab7.CSCD210Lab7.main(CSCD210Lab7.java:49)
+ 
+  ----jGRASP wedge2: exit code for process is 1.
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java cscd210lab7.CSCD210Lab7
+ Please enter an integer greater than 0 3
+ Enter an item into the array: 12
+ Enter an item into the array: 23
+ Enter an item into the array: 45
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Display the array
+ 4) Compute the mean of the array
+ 5) Compute the median of the array
+ 6) Compute the midpoint of the array
+ 7) Compute the standard deviation of the array
+ 8) Quit
+ Choice --> 3
+ [12,23,45] 
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Display the array
+ 4) Compute the mean of the array
+ 5) Compute the median of the array
+ 6) Compute the midpoint of the array
+ 7) Compute the standard deviation of the array
+ 8) Quit
+ Choice --> 4
+ The Meanvalue is 26.666666666666668
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Display the array
+ 4) Compute the mean of the array
+ 5) Compute the median of the array
+ 6) Compute the midpoint of the array
+ 7) Compute the standard deviation of the array
+ 8) Quit
+ Choice --> 6
+ The Midpointvalue is 28.5
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Display the array
+ 4) Compute the mean of the array
+ 5) Compute the median of the array
+ 6) Compute the midpoint of the array
+ 7) Compute the standard deviation of the array
+ 8) Quit
+ Choice --> 7
+ The Standard Deviationvalue is 6.324555320336759
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Display the array
+ 4) Compute the mean of the array
+ 5) Compute the median of the array
+ 6) Compute the midpoint of the array
+ 7) Compute the standard deviation of the array
+ 8) Quit
+ Choice --> 8
+ All Done
+ Good Bye
+ 
+  ----jGRASP: operation complete.
+ 

@@ -1,0 +1,164 @@
+ Please enter an integer greater than 0 5
+ Please enter a number 50
+ Please enter a number 40
+ Please enter a number 30
+ Please enter a number 20
+ Please enter a number 10
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Delete a value from the array (by location)
+ 4) Display the array
+ 5) Compute the mean of the array
+ 6) Compute the median of the array
+ 7) Compute the midpoint of the array
+ 8) Compute the standard deviation of the array
+ 9) Quit
+ Choice --> 4
+ [50, 40, 30, 20, 10]
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Delete a value from the array (by location)
+ 4) Display the array
+ 5) Compute the mean of the array
+ 6) Compute the median of the array
+ 7) Compute the midpoint of the array
+ 8) Compute the standard deviation of the array
+ 9) Quit
+ Choice --> 1
+ Please enter a new number 60
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Delete a value from the array (by location)
+ 4) Display the array
+ 5) Compute the mean of the array
+ 6) Compute the median of the array
+ 7) Compute the midpoint of the array
+ 8) Compute the standard deviation of the array
+ 9) Quit
+ Choice --> 4
+ [50, 40, 30, 20, 10, 60]
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Delete a value from the array (by location)
+ 4) Display the array
+ 5) Compute the mean of the array
+ 6) Compute the median of the array
+ 7) Compute the midpoint of the array
+ 8) Compute the standard deviation of the array
+ 9) Quit
+ Choice --> 2
+ Please enter a number to delete 90
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Delete a value from the array (by location)
+ 4) Display the array
+ 5) Compute the mean of the array
+ 6) Compute the median of the array
+ 7) Compute the midpoint of the array
+ 8) Compute the standard deviation of the array
+ 9) Quit
+ Choice --> 4
+ [50, 40, 30, 20, 10, 60]
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Delete a value from the array (by location)
+ 4) Display the array
+ 5) Compute the mean of the array
+ 6) Compute the median of the array
+ 7) Compute the midpoint of the array
+ 8) Compute the standard deviation of the array
+ 9) Quit
+ Choice --> 2
+ Please enter a number to delete 30
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Delete a value from the array (by location)
+ 4) Display the array
+ 5) Compute the mean of the array
+ 6) Compute the median of the array
+ 7) Compute the midpoint of the array
+ 8) Compute the standard deviation of the array
+ 9) Quit
+ Choice --> 4
+ [50, 40, 20, 10, 60]
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Delete a value from the array (by location)
+ 4) Display the array
+ 5) Compute the mean of the array
+ 6) Compute the median of the array
+ 7) Compute the midpoint of the array
+ 8) Compute the standard deviation of the array
+ 9) Quit
+ Choice --> 3
+ Please enter an index to delete 0
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Delete a value from the array (by location)
+ 4) Display the array
+ 5) Compute the mean of the array
+ 6) Compute the median of the array
+ 7) Compute the midpoint of the array
+ 8) Compute the standard deviation of the array
+ 9) Quit
+ Choice --> 4
+ [40, 20, 10, 60]
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Delete a value from the array (by location)
+ 4) Display the array
+ 5) Compute the mean of the array
+ 6) Compute the median of the array
+ 7) Compute the midpoint of the array
+ 8) Compute the standard deviation of the array
+ 9) Quit
+ Choice --> 3
+ Please enter an index to delete 2
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Delete a value from the array (by location)
+ 4) Display the array
+ 5) Compute the mean of the array
+ 6) Compute the median of the array
+ 7) Compute the midpoint of the array
+ 8) Compute the standard deviation of the array
+ 9) Quit
+ Choice --> 4
+ [40, 20, 60]
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Delete a value from the array (by location)
+ 4) Display the array
+ 5) Compute the mean of the array
+ 6) Compute the median of the array
+ 7) Compute the midpoint of the array
+ 8) Compute the standard deviation of the array
+ 9) Quit
+ Choice --> 2
+ Please enter a number to delete 60
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Delete a value from the array (by location)
+ 4) Display the array
+ 5) Compute the mean of the array
+ 6) Compute the median of the array
+ 7) Compute the midpoint of the array
+ 8) Compute the standard deviation of the array
+ 9) Quit
+ Choice --> 4
+ [40, 20]
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Delete a value from the array (by location)
+ 4) Display the array
+ 5) Compute the mean of the array
+ 6) Compute the median of the array
+ 7) Compute the midpoint of the array
+ 8) Compute the standard deviation of the array
+ 9) Quit
+ Choice --> 9
+ All Done
+ Good Bye
+ 
+  ----jGRASP: operation complete.
+ 
